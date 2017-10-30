@@ -57,7 +57,7 @@ const sortObj = (function sortObj() {
       /* prepare parameters for dynamic search */
       const value = $(event.target).val();
       const sortTarget = $(event.target).attr('data-field');
-      const $noResult = '<tr><th scope="row">Brak wyników</th></tr>';
+      const $noResult = '<tr><th scope="row">Not found</th></tr>';
       /* dynamic search */
       const sortedRows = sortModule.dynamicSort(value, $tableRow, sortTarget);
       /* if result array is empty render $noResult template */

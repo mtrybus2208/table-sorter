@@ -1,4 +1,4 @@
-# Simple implementation of (Jquery and ES6) to filtering and sorting tables.
+# Simple example of using jQuery and ES6 to filtering and sorting tables.
 
 Used sort types:
 - Ascending order
@@ -16,6 +16,4 @@ Technologies that I used in this tiny app:
 - Webpack 2.0
 - ESLint
 
-Online version : 'asdasdasdasd'
- 
- 
+Online version : 'https://mtrybus2208.github.io/table-sorter/'
