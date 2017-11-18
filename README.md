@@ -13,7 +13,7 @@ Technologies that I used in this tiny app:
 - Bootstrap 4
 - JavaScript (ES6)
 - jQuery
-- Webpack 2.0
 - ESLint
+- Webpack 2.0
 
 Online version : 'https://mtrybus2208.github.io/table-sorter/'
